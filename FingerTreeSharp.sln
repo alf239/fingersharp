@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FingerTreeSharp", "src\FingerTreeSharp.fsproj", "{94F37049-3D2E-42E9-ADBA-EF6641A4970E}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FingerTreeTest", "test\FingerTreeTest.fsproj", "{6CAF4A0E-9BAA-419A-9431-4F0615E26D9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94F37049-3D2E-42E9-ADBA-EF6641A4970E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F37049-3D2E-42E9-ADBA-EF6641A4970E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F37049-3D2E-42E9-ADBA-EF6641A4970E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F37049-3D2E-42E9-ADBA-EF6641A4970E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CAF4A0E-9BAA-419A-9431-4F0615E26D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CAF4A0E-9BAA-419A-9431-4F0615E26D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CAF4A0E-9BAA-419A-9431-4F0615E26D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CAF4A0E-9BAA-419A-9431-4F0615E26D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
